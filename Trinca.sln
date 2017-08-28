@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TrincaWForms", "TrincaWForms\TrincaWForms.vbproj", "{6ACE2E4A-553C-411D-A7A0-C8BDDC22F990}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TrincaBOs", "TrincaBOs\TrincaBOs.vbproj", "{73493457-D6F5-4F7C-8EC0-A7BC2A18F46B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ControlesDiversos", "ControlesDiversos\ControlesDiversos.vbproj", "{B763F1D4-1E5B-433C-8D0E-0281B55DFC55}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScriptsSQLServer", "ScriptsSQLServer", "{75050E83-29FB-4A81-A3CE-DB11C95AE3E1}"
+	ProjectSection(SolutionItems) = preProject
+		ScriptsSQLServer\FuncaoContribSugerida.sql = ScriptsSQLServer\FuncaoContribSugerida.sql
+		ScriptsSQLServer\FuncaoValorPago.sql = ScriptsSQLServer\FuncaoValorPago.sql
+		ScriptsSQLServer\StoredProcedureEstatistica.sql = ScriptsSQLServer\StoredProcedureEstatistica.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ACE2E4A-553C-411D-A7A0-C8BDDC22F990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACE2E4A-553C-411D-A7A0-C8BDDC22F990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACE2E4A-553C-411D-A7A0-C8BDDC22F990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACE2E4A-553C-411D-A7A0-C8BDDC22F990}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73493457-D6F5-4F7C-8EC0-A7BC2A18F46B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73493457-D6F5-4F7C-8EC0-A7BC2A18F46B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73493457-D6F5-4F7C-8EC0-A7BC2A18F46B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73493457-D6F5-4F7C-8EC0-A7BC2A18F46B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B763F1D4-1E5B-433C-8D0E-0281B55DFC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B763F1D4-1E5B-433C-8D0E-0281B55DFC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B763F1D4-1E5B-433C-8D0E-0281B55DFC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B763F1D4-1E5B-433C-8D0E-0281B55DFC55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

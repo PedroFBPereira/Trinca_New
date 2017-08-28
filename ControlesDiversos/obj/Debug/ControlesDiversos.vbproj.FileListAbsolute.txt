@@ -1,0 +1,9 @@
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Trinca\Trinca\ControlesDiversos\bin\Debug\ControlesDiversos.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Trinca\Trinca\ControlesDiversos\bin\Debug\ControlesDiversos.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Trinca\Trinca\ControlesDiversos\bin\Debug\ControlesDiversos.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Trinca\Trinca\ControlesDiversos\obj\Debug\ControlesDiversos.Resources.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Trinca\Trinca\ControlesDiversos\obj\Debug\ControlesDiversos.vbproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Trinca\Trinca\ControlesDiversos\obj\Debug\ControlesDiversos.dll
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Trinca\Trinca\ControlesDiversos\obj\Debug\ControlesDiversos.xml
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Trinca\Trinca\ControlesDiversos\obj\Debug\ControlesDiversos.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Trinca\Trinca\ControlesDiversos\obj\Debug\ControlesDiversos.vbprojResolveAssemblyReference.cache
