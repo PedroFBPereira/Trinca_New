@@ -14,6 +14,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScriptsSQLServer", "Scripts
 		ScriptsSQLServer\FuncaoContribSugerida.sql = ScriptsSQLServer\FuncaoContribSugerida.sql
 		ScriptsSQLServer\FuncaoValorPago.sql = ScriptsSQLServer\FuncaoValorPago.sql
 		ScriptsSQLServer\StoredProcedureEstatistica.sql = ScriptsSQLServer\StoredProcedureEstatistica.sql
+		BKP_Database\Trinca_BKP.bak = BKP_Database\Trinca_BKP.bak
 	EndProjectSection
 EndProject
 Global
